@@ -36,16 +36,379 @@ astro-living-curriculum/
 ├── [README.md](README.md)                    # This roadmap
 ├── [stages/](stages/)                        # Stage folders
 │   ├── [stage0_orientation/](stages/stage0_orientation/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage1_foundations/](stages/stage1_foundations/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage2_calculus1/](stages/stage2_calculus1/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage3_linear_algebra/](stages/stage3_linear_algebra/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage4_mechanics/](stages/stage4_mechanics/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage5_electromagnetism/](stages/stage5_electromagnetism/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage6_modern_physics/](stages/stage6_modern_physics/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage7_computation/](stages/stage7_computation/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage8_thermo_quantum/](stages/stage8_thermo_quantum/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   ├── [stage9_cosmology_astrodata/](stages/stage9_cosmology_astrodata/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │   └── [stage10_research_synthesis/](stages/stage10_research_synthesis/)
+# Stage N — [Title]
+
+## 🎯 Overview & Objectives
+- Concise overview of what this stage covers and its outcomes.
+- Clear measurable objectives.
+
+## 🧮 Mathematics
+- Core math concepts with succinct explanations.
+- Connection to physics in notation and logic.
+
+## 🌌 Physics Integration
+- Physical laws and systems modeled with the new math.
+- Conceptual + computational connection.
+
+## 📘 Free Resources
+- [MIT OCW – course link](https://ocw.mit.edu)
+- [Khan Academy – module link](https://khanacademy.org)
+- [3Blue1Brown video series](https://www.youtube.com/@3blue1brown)
+*(and other verified open materials)*
+
+## 🧪 Projects / Simulations
+- Description of a hands-on or computational project.
+- Includes **runnable Python example code**, with inline comments and clear outputs.
+- Lightweight enough to run on Raspberry Pi 3B.
+
+## 📈 Checkpoint / Self-Assessment
+- Conceptual and practical tests of mastery.
+
+
+## 🔗 Navigation
+[← Previous Stage](../stage(N-1)_topic/README.md) | [Back to Main Roadmap](../../README.md) | [Next Stage →](../stage(N+1)_topic/README.md)
+
+
 │
 ├── [resources/](resources/)
 │   ├── [math_free_texts.md](resources/math_free_texts.md)
