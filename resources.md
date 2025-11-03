@@ -98,9 +98,11 @@ See [`project_templates/`](./project_templates/)
 
 ---
 
+MISC RESOURCES (FIX THE FORMATTING FEDORA YOU LAZY FUCK) 
+https://archive.org/details/L.EpsteinRelativityVisualizedelemTxt1994Insight/page/n13/mode/1up
 ## 🔗 Navigation
 - [← Back to Main Roadmap](../README.md)
-- [↑ Return to Repository Root](../)
+
 
 ---
 
