@@ -56,7 +56,7 @@ Reflect on the utilities learned and common uses:
 ### Required Tools
 python3, pip, venv, jupyterlab, numpy, matplotlib, pandas, sympy
 
-## CLI Steps
+### CLI Steps
 sudo apt install python3-venv -y
 python3 -m venv ~/astro_env
 source ~/astro_env/bin/activate
@@ -69,7 +69,7 @@ jupyter lab --no-browser --ip=0.0.0.0
 Access via browser on another device: http://<Pi_IP>:8888
 **Note:** Running Jupyter environments without modifiers will open them in a browser.
 
-##Notebook Test
+### Notebook Test
 
 Create system_check.ipynb and run:
 
@@ -80,22 +80,22 @@ plt.plot(x, np.sin(x))
 plt.title("First Plot on Raspberry Pi 3")
 plt.show()
 
-##Checkpoint
+### Checkpoint
 - JupyterLab opens and can execute Python code
 - Libraries import successfully
 - Understand the purpose of virtual environments
 
-##Lesson 3 - Version Control & GitHub Workflow
+### Lesson 3 - Version Control & GitHub Workflow
 
-##Objectives
+### Objectives
 - Initialize a local Git repository
 - Create a GitHub account and connect via SSH
 - Commit and push first notebook
 
-##Required Tools
+### Required Tools
 git, GitHub account
 
-##CLI Steps
+### CLI Steps
 sudo apt install git -y
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
@@ -112,14 +112,14 @@ git commit -m "Initial commit – Stage 0 setup"
 git remote add origin git@github.com:<username>/astro-living-curriculum.git
 git push -u origin master
 
-##Checkpoint
+### Checkpoint
 - Repository visible on GitHub
 - Understand add/commit/push cycle
 - SSH authentication configured correctly
 
-##**Lesson 4 - Scientific Computing Fundamentals**
+### **Lesson 4 - Scientific Computing Fundamentals**
 
-##Objectives
+### Objectives
 - Learn numeric arrays and plotting basics
 - Perform reproducible calculations
 
@@ -127,7 +127,7 @@ git push -u origin master
 
 Numpy arrays, Basic plotting, Units and scalimg
 
-##Jupyter Example
+### Jupyter Example
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -140,21 +140,21 @@ plt.ylabel("Distance (m)")
 plt.title("Free Fall Simulation – x = ½gt²")
 plt.show()
 
-##Checkpoint
+### Checkpoint
 - Understand NumPy array creation
 - Produce labeled plots
 - Save notebook in projects/
 
-##**Lesson 5 - Dimensional Analysis & "Hello Universe" Project**
+### **Lesson 5 - Dimensional Analysis & "Hello Universe" Project**
 
-##Objectives
+### Objectives
 - Apply dimensional consistency to equations
 - Run a basic astrophysical computation
 
-##Concept Focus
+### Concept Focus
 Units - Scaling - Dimensional analysis - Verification
 
-##Project Code
+### Project Code
 # Hello, Universe – Kepler's 3rd Law demo
 import numpy as np
 
@@ -165,12 +165,12 @@ a = 1.496e11   # 1 AU (m)
 T = 2 * np.pi * np.sqrt(a**3 / (G * M_sun))
 print(f"Earth orbital period ≈ {T/86400:.2f} days")
 
-##Reflection
+### Reflection
 - Why must G, M, and a be consistent?
 - How could the simulation fail numerically on small timesteps?
 - How does dimensional analysis prevent physical mistakes?
 
-##Checkpoint
+### Checkpoint
 - Runs the project successfully
 - Explains variable units
 - Commits the final notebook to GitHub
