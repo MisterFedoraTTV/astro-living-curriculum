@@ -30,7 +30,7 @@ sudo apt install build-essential curl git vim nano python3-pip -y
 mkdir -p ~/astro_lab/{projects,data,notes}
 cd ~/astro_lab
 
-
+```
 
 ### **Exercise**
 Run each command and note what happens, then explore the uses of each
