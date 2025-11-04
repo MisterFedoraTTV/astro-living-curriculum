@@ -35,17 +35,17 @@ cd ~/astro_lab
 ### **Exercise**
 Run each command and note what happens, then explore the uses of each
 
-pwd
-ls -lha
-whoami
-uname -a
+`pwd`
+`ls -lha`
+`whoami`
+`uname -a`
 
 ### **Checkpoint**
 Reflect on the utilities learned and common uses:
 
--Can navigate directories (cd, ls, pwd)
--Understands sudo and package installation
--Folder structure ~/astro_lab created successfully
+-Can navigate directories (`cd`, `ls`, `pwd`)
+-Understands `sudo` and package installation
+-Folder structure `~/astro_lab` created successfully
 
 ### Lesson 2 - Python and JupyterLab Setup
 
@@ -54,24 +54,26 @@ Reflect on the utilities learned and common uses:
 - Launch and connect to JupyterLab from another device
 
 ### Required Tools
-python3, pip, venv, jupyterlab, numpy, matplotlib, pandas, sympy
+`python3`, `pip`, `venv`, `jupyterlab`, `numpy`, `matplotlib`, `pandas`, `sympy`
 
 ### CLI Steps
+```
 sudo apt install python3-venv -y
 python3 -m venv ~/astro_env
 source ~/astro_env/bin/activate
 pip install --upgrade pip
 pip install numpy scipy sympy matplotlib pandas jupyterlab
+```
 **Note:** if you keep getting an "Externally managed" error, you may need to restart your terminal or use an alternative pip option, such as pipx.
 
 Launch Jupyter
 jupyter lab --no-browser --ip=0.0.0.0
-Access via browser on another device: http://<Pi_IP>:8888
+Access via browser on another device: `http://<Pi_IP>:8888`
 **Note:** Running Jupyter environments without modifiers will open them in a browser.
 
 ### Notebook Test
 
-Create system_check.ipynb and run:
+Create `system_check.ipynb` and run:
 
 import numpy as np, matplotlib.pyplot as plt
 print("Environment check OK")
@@ -93,7 +95,7 @@ plt.show()
 - Commit and push first notebook
 
 ### Required Tools
-git, GitHub account
+`git`, GitHub account
 
 ### CLI Steps
 sudo apt install git -y
@@ -125,7 +127,7 @@ git push -u origin master
 
 ##Concept Focus
 
-Numpy arrays, Basic plotting, Units and scalimg
+`Numpy` arrays, Basic plotting, Units and scalimg
 
 ### Jupyter Example
 
@@ -143,7 +145,7 @@ plt.show()
 ### Checkpoint
 - Understand NumPy array creation
 - Produce labeled plots
-- Save notebook in projects/
+- Save notebook in `projects/`
 
 ### **Lesson 5 - Dimensional Analysis & "Hello Universe" Project**
 
@@ -166,7 +168,7 @@ T = 2 * np.pi * np.sqrt(a**3 / (G * M_sun))
 print(f"Earth orbital period ≈ {T/86400:.2f} days")
 
 ### Reflection
-- Why must G, M, and a be consistent?
+- Why must `G`, `M`, and `a` be consistent?
 - How could the simulation fail numerically on small timesteps?
 - How does dimensional analysis prevent physical mistakes?
 
